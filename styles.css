@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#button-5{
+	width:100%;
+	
+	justify-content:center;
+	color:black;
+	background-color:yellow;
+}
+#button-6{
+	background-color:skyblue;
+}
+button{
+	padding:10px;
+	margin:10px;
+}
